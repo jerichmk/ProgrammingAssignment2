@@ -38,3 +38,6 @@ cacheSolve <- function(x, ...) {
 ##Sample
 a=matrix(c(1,3,0,1),2,2)
 cacheSolve(makeCacheMatrix(a))
+  [,1] [,2]
+[1,]    1    0
+[2,]   -3    1
